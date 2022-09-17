@@ -1,0 +1,29 @@
+나홀로메모장 ver2
+
+좋아요 기능
+좋아요 순서대로 정렬
+좋아요 누르면 바로 내림차순 정렬
+
+입력 수정 삭제
+매번 조질때 알람 ㅇㅇ
+
+패키지 - 
+
+빌어먹을 jquery오류
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+
+가상환경 오쁜
+py -3 -m venv .venv
+
+런
+.venv\Scripts\activate
+
+Set
+ - pip install
+>requests
+>beautifulsoup4
+>pymongo
+>flask
+
+메모
+title text likes 수정 삭제 조항요
